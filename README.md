@@ -1,37 +1,6 @@
 # otter 安装配置
 
-* ## [otter 安装](#1)
+* ## [otter 安装](./otter_install.md)
 
-* ## [otter 配置](#2)
+* ## [otter 配置](./otter_config.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p id="1"></p> 
-
-
-
-
-
-
-
-
-werwe
